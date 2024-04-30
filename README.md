@@ -1,2 +1,2 @@
-# Depencance
+# Dependance
 android project
